@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/massbays-tech/universe
 	shallow = true
 	branch = HEAD
+[submodule "MassWateR"]
+	path = MassWateR
+	url = https://github.com/massbays-tech/MassWateR
+	shallow = true
+	registered = true
