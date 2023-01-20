@@ -1,5 +1,6 @@
 [
   {
-    "package": "MassWateR"
+    "package": "MassWateR",
+    "oncran": false
   }
 ]
