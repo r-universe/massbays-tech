@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/massbays-tech/universe
+	url = https://github.com/massbays-tech/massbays-tech.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "MassWateR"]
