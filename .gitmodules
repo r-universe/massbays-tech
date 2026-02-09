@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/massbays-tech/massbays-tech.r-universe.dev
 	branch = HEAD
+[submodule "AquaSensR"]
+	path = AquaSensR
+	url = https://github.com/massbays-tech/AquaSensR
 [submodule "MassWateR"]
 	path = MassWateR
 	url = https://github.com/massbays-tech/MassWateR
